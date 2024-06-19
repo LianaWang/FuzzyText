@@ -1,0 +1,15 @@
+data
+work_dirs/
+.idea
+.ipynb_checkpoints
+__pycache__
+*.so
+*.pkl
+*.pth
+*.json
+*.swp
+build
+*.egg-info
+*.egg
+*.tar.gz
+*.tgz

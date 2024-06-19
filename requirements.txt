@@ -1,0 +1,7 @@
+shapely
+numpy
+scipy
+opencv-python==4.5.4.60
+torch==1.7.0
+mmdet==2.7.0
+mmcv-full==1.2.7
